@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cogai img {
+}
+
+.gioithieu {
+    float: left;
+}
+
+.lh h4 {
+    font-size: 20px;
+}
+
+.qc {
+    font-size: 14px;
+}
+
+.lh {
+    text-align: right;
+    line-height: 25px;
+}
+
+.cogai {
+    margin-top: 50px;
+}
+
+.text p {
+    line-height: 40px;
+}
+
+.about {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.likes li {
+    display: inline-block;
+    padding: 30px 15px;
+}
+
+.tieude {
+    margin-top: 50px;
+}
+
+.tieude h2 {
+    width: 320px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.destination {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 50px 30px;
+    margin-bottom: 30px;
+}
+
+.width h3 {
+    text-align: center;
+}
+
+._1khoi p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+i.fas.fa-arrow-right {
+    color: cornflowerblue;
+}
+
+.traiGalery {
+    margin: auto;
+    font-size: 25px;
+}
+
+.galery {
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone p {
+    text-align: center;
+    justify-content: center;
+    padding-top: 15px;
+    color: white;
+    font-weight: 500;
+}
+
+.phone {
+    width: 300px;
+    height: 50px;
+    background: #20BEE9;
+    margin-top: 10px;
+}
+
+.logo {
+    padding-top: 10px;
+}
+
+.trai {
+    padding-left: px;
+}
+
+.nav {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    transition: 0.4s;
+}
+
+.nav {}
+
+.nav.doimau {
+    background: #9b59b6;
+}
+
+.phai li {
+    display: inline-block;
+    padding-right: 65px;
+    padding-top: 30px;
+}
+
+.trai li {
+    display: inline-block;
+    padding-top: 40px;
+    padding-left: 50px;
+
+}
+
+.trai li a {
+    text-decoration: none;
+    color: white;
+    transition: 0.4s;
+    font-weight: 500;
+    border-bottom: 3px solid white;
+}
+
+.trai li a:hover {
+    border-bottom: 5px solid #3498db;
+}
+
+.phai li {
+    color: white;
+    font-weight: 500;
+}
+
+.beach {
+    background-image: url('./imgs/beach.png');
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
+
+.beach {
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+}
+
+.beach h2 {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+
+._1khoi {
+    width: 250px;
+}
+
+._1khoi img {
+    width: 250px;
+}
+
+._1khoi i {
+    margin: auto;
+}
+
+.contact {
+    background-image: url('./imgs/bg-bottom.png');
+    display: flex;
+    justify-content: space-evenly;
+}
